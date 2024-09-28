@@ -35,5 +35,17 @@
    sudo docker-compose logs solution
    ```
 
+### Шаг 5: Старт/Стоп
+
+5. Чтобы запустить/остановить какой-либо из сервисов, используйте следующие команды:
+   ```bash
+   sudo docker-compose start clickhouse 
+   ```
+   (clickhouse и solution взяты для примера)
+   ```bash
+   sudo docker-compose stop solution
+   ```
+   
+
 ---
 
