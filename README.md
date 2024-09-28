@@ -1,6 +1,3 @@
-Here’s a polished guide for running your project on Ubuntu 22.04:
-
----
 
 # 🚀 Hack2024 - Quick Start Guide
 
