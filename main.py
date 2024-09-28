@@ -90,10 +90,5 @@ def start():
     df2 = pl.from_pandas(df2)
     df3 = pl.from_pandas(df3)
 
-    # Пример дальнейшего использования df1, df2, df3
-    print(df1)
-    print(df2)
-    print(df3)
-
 if __name__ == "__main__":
     start()
